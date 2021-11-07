@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{D97F7B39-6E60-88D3-68B1-84498A8E5A7E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game/Player/Clicker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game/BackgroundScroller.cs" Line="13" Column="8" />
+      <File FileName="Assets/Scripts/Game/Asteroid/AsteroidMover.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/Game/Asteroid/Asteroid.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/Other/Helper.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/Player/Clicker.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/Player/Player.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Player/Viev.cs" Line="9" Column="58" />
+      <File FileName="Assets/Scripts/Game/GameManager.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Game/Damage.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/Game/Spawner/Pool.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/Game/Spawner/AsteriodsSpawner.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/Game/Spawner/AsteroidSpeedChanger.cs" Line="32" Column="22" />
+      <File FileName="Assets/Scripts/Main Menu/MainMenu.cs" Line="19" Column="21" />
+      <File FileName="Assets/Scripts/Game/AudioListener.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/Game/DamageImage.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Asteroid Tap" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Game" expanded="True">
+                  <Node name="Asteroid" expanded="True" />
+                  <Node name="Player" expanded="True">
+                    <Node name="Clicker.cs" selected="True" />
+                  </Node>
+                  <Node name="Spawner" expanded="True" />
+                </Node>
+                <Node name="Main Menu" expanded="True" />
+                <Node name="Other" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e7ace663-357a-4768-abc5-69f3c5602b40" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
